@@ -1,0 +1,14 @@
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\bin\Debug\BT_Lon_CNPM.exe.config
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\bin\Debug\BT_Lon_CNPM.exe
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\bin\Debug\BT_Lon_CNPM.pdb
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.csproj.AssemblyReference.cache
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.csproj.SuggestedBindingRedirects.cache
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.Form1.resources
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.Form2.resources
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.Properties.Resources.resources
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.csproj.GenerateResource.cache
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.csproj.CoreCompileInputs.cache
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.exe
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.pdb
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.Form3.resources
+C:\Users\tiend\OneDrive\Documents\521H0443_NguyenTienDiep\CNPM\BT_Lon_CNPM\BT_Lon_CNPM\obj\Debug\BT_Lon_CNPM.Form4.resources
